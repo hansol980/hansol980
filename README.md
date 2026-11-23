@@ -8,7 +8,11 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 
 ![contribution graph](https://raw.githubusercontent.com/hansol980/hansol980/output/github-contribution-grid-snake.svg)
 
-[![Tech stack](https://skillicons.dev/icons?i=python,pytorch,linux,git,github&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,github&perline=8" alt="Tech stack" />
+  </a>
+</p>
 
 ---
 
