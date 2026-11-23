@@ -2,7 +2,7 @@
 
 Undergraduate researcher at Hansung University, working on privacy in federated learning and machine unlearning for LLMs.
 
-**[Homepage](https://hansol980.github.io)** | **[Email](mailto:hansolj031005@gmail.com)**
+**[Homepage](https://hansol980.github.io)** | **[Blog](https://hansol980.tistory.com/)** | **[Email](mailto:hansolj031005@gmail.com)**
 
 ---
 
@@ -34,6 +34,10 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 - Reproducing Revisiting Who's Harry Potter (LLM Unlearning), [Code](https://github.com/hansol980/whp_reproducibility) / 2026.10 – Present
 - Robot Teleoperation in Isaac Sim / 2026.09 – Present
 - OneClickMeet: Place Saving & Recommendation App, [Code](https://github.com/oneclickmeet-team/oneclickmeet-ai) / 2026.09 – Present
+
+## Blog Posts
+
+- [Paper Review] PPO: Proximal Policy Optimization Algorithms, [Post](https://hansol980.tistory.com/) / 2026.11
 
 ## Publications
 
