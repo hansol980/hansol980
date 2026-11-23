@@ -24,11 +24,10 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 
 ## Projects & Activities
 
-- Context Leakage in Federated Graph Learning, Hansung University / [YYYY.MM]
-- Reproducing Revisiting Who's Harry Potter (LLM Unlearning), [Code](https://github.com/hansol980/whp_reproducibility) / [YYYY.MM] – Present
-- Robot Teleoperation in Isaac Sim / [YYYY.MM]
-- BikeCast: Seoul Public Bike Demand Forecasting, Cloud Computing course / 2026.[MM]
-- OneClickMeet: Place Saving & Recommendation App, [Code](https://github.com/oneclickmeet-team/oneclickmeet-ai) / 2026.[MM]
+- Context Leakage in Federated Graph Learning, Hansung University / [2026.09]
+- Reproducing Revisiting Who's Harry Potter (LLM Unlearning), [Code](https://github.com/hansol980/whp_reproducibility) / [2026.10] – Present
+- Robot Teleoperation in Isaac Sim / [2026.09] - Present
+- OneClickMeet: Place Saving & Recommendation App, [Code](https://github.com/oneclickmeet-team/oneclickmeet-ai) / 2026.[09] - Present
 
 ## Publications
 
@@ -38,4 +37,4 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 
 ## Education
 
-- B.S. in Applied Artificial Intelligence, Hansung University / [YYYY.MM] – Present
+- B.S. in Applied Artificial Intelligence, Hansung University / [2022.03] – Present
