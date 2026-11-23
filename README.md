@@ -20,14 +20,16 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 
 ## Experiences
 
-- Undergraduate Researcher, [LAB NAME], Hansung University / [YYYY.MM] – Present
+- Undergraduate Researcher, Trustworthy AI and 6G Communications Lab, Hansung University / 2025.06 – Present
+- Overseas Training Program, Singapore / 2026.08
+- Intel AI Application Creator Training Program, Intel / 2025.06 – 2025.12
 
 ## Projects & Activities
 
-- Context Leakage in Federated Graph Learning, Hansung University / [2026.09]
-- Reproducing Revisiting Who's Harry Potter (LLM Unlearning), [Code](https://github.com/hansol980/whp_reproducibility) / [2026.10] – Present
-- Robot Teleoperation in Isaac Sim / [2026.09] - Present
-- OneClickMeet: Place Saving & Recommendation App, [Code](https://github.com/oneclickmeet-team/oneclickmeet-ai) / [2026.09] - Present
+- Context Leakage in Federated Graph Learning, Hansung University / 2026.09
+- Reproducing Revisiting Who's Harry Potter (LLM Unlearning), [Code](https://github.com/hansol980/whp_reproducibility) / 2026.10 – Present
+- Robot Teleoperation in Isaac Sim / 2026.09 – Present
+- OneClickMeet: Place Saving & Recommendation App, [Code](https://github.com/oneclickmeet-team/oneclickmeet-ai) / 2026.09 – Present
 
 ## Publications
 
@@ -37,4 +39,4 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 
 ## Education
 
-- B.S. in Applied Artificial Intelligence, Hansung University / [2022.03] – Present
+- B.S. in Applied Artificial Intelligence, Hansung University / 2022.03 – Present
