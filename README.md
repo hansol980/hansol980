@@ -37,7 +37,7 @@ Undergraduate researcher at Hansung University, working on privacy in federated 
 
 ## Blog Posts
 
-- [Paper Review] PPO: Proximal Policy Optimization Algorithms, [Post](https://hansol980.tistory.com/) / 2026.11
+- [Paper Review] PPO: Proximal Policy Optimization Algorithms, [Post](https://hansol980.tistory.com/1) / 2026.11
 
 ## Publications
 
